@@ -1,0 +1,143 @@
+@media only screen  and (max-width: 1200px) {
+
+}
+@media only screen  and (max-width: 1024px) {
+	h5 {
+		font-size: 27px;
+	}
+	p {
+	    font-size: 20px; 
+	}
+	.btn {
+	    line-height: 40px;
+	    height: 60px;
+	    font-size: 18px;
+	}
+	.main_banner_intro h1 {
+	    margin-bottom: 15px;
+	    font-size: 47px;
+	}
+	.main_banner_intro p {
+		font-size: 22px;
+	}
+	.banner_contact b {
+	    font-size: 30px; 
+	}
+	.home_sidebar_content {
+	    min-width: 350px;
+	    width: 350px;
+	}
+	.ready_to_reclaim, .emory_healthcare_veterans {
+		padding: 30px;
+	}
+	.ready_to_reclaim h4, .emory_healthcare_veterans h4 {
+	    padding-bottom: 20px;
+	    margin-bottom: 20px;
+	    font-size: 28px;
+	}
+	.ptsd_symptoms_content ul li {
+		font-size: 20px;
+	}
+
+}
+@media only screen  and (max-width: 920px) {
+	.main_banner {
+		height: 450px;
+	}
+	.main_banner .sec_flex_content {
+	    display: block;
+	    margin-top: auto;
+	    height: auto;
+	}	
+	.main_banner_details {
+	    max-width: none;
+	    padding-bottom: 15px;
+	}
+	.main_logo,
+	.main_logo img {
+	    max-width: 150px;
+	    height: 150px;
+	}
+	.homepage_content {
+	    padding: 70px 0;
+	}
+	.homepage_content .flexbox_container_auto {
+		display: block;
+	}
+	.home_sidebar_content {
+	    min-width: 100%;
+	    width: 100%;
+	    border-top: 1px solid #bdbdbd;
+	    margin-top: 25px;
+	    padding-top: 25px;	
+	}
+	.ptsd_symptoms_content {
+	    padding-right: 0;
+	}
+	.home_sidebar_content .btn.btn_block {
+	    /* display: inline-block; */
+    	/* width: auto; */
+	}
+	footer.main_footer_section {
+	    height: 200px; 
+	}
+
+}
+
+@media only screen  and (max-width: 768px) {
+	h5 {
+	    font-size: 25px;
+	}
+	p {
+	    font-size: 18px;
+	}
+	.container {
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+	.main_banner {
+	    height: 380px;
+	}
+	.main_logo,
+	.main_logo img {
+	    width: 100%;
+	    max-width: 110px;
+	    height: 110px;
+	}
+	.main_banner_intro h1 {
+	    margin-bottom: 5px;
+	    font-size: 40px;
+	}
+	.main_banner_intro p {
+	    font-size: 20px;
+	}
+	.banner_contact b {
+	    font-size: 25px;
+	}
+	.main_banner_details {
+		padding-bottom: 10px;
+	}
+	.homepage_content {
+    	padding: 50px 0;
+	}
+	.banner_contact {
+	    padding-bottom: 30px;
+	}
+	.ptsd_symptoms_content ul li {
+	    font-size: 18px;
+	}
+}
+@media only screen  and (max-width: 620px) {
+	.ready_to_reclaim, .emory_healthcare_veterans {
+	    padding: 20px;
+	}
+	.ready_to_reclaim h4, .emory_healthcare_veterans h4 {
+	    padding-bottom: 18px;
+	    margin-bottom: 18px;
+	    font-size: 24px;
+	}
+}
+@media only screen  and (max-width: 480px) {
+	
+}
+
