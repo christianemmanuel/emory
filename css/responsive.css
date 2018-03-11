@@ -89,7 +89,7 @@
 	    font-size: 25px;
 	}
 	p {
-	    font-size: 18px;
+	    font-size: 20px;
 	}
 	.container {
 	    padding-left: 20px;
@@ -105,8 +105,9 @@
 	    height: 110px;
 	}
 	.main_banner_intro h1 {
-	    margin-bottom: 5px;
+	    margin-bottom: 15px;
 	    font-size: 40px;
+	    line-height: 1em;
 	}
 	.main_banner_intro p {
 	    font-size: 20px;
@@ -128,13 +129,38 @@
 	}
 }
 @media only screen  and (max-width: 620px) {
+	p {
+	    font-size: 16px;
+	}
+	h5 {
+	    font-size: 23px;
+	}
+	.main_banner {
+	    height: 350px;
+	}
+	.main_banner_intro h1 {
+	    font-size: 36px;
+	}
+	.main_banner_intro p {
+	    font-size: 16px;
+	}
 	.ready_to_reclaim, .emory_healthcare_veterans {
 	    padding: 20px;
 	}
 	.ready_to_reclaim h4, .emory_healthcare_veterans h4 {
-	    padding-bottom: 18px;
-	    margin-bottom: 18px;
-	    font-size: 24px;
+	    padding-bottom: 15px;
+	    margin-bottom: 15px;
+	    font-size: 22px;
+	}
+	.ready_to_reclaim p, .emory_healthcare_veterans p {
+	    font-size: 18px;
+	    margin-bottom: 20px;
+	}
+	.ptsd_symptoms_content ul li {
+		font-size: 16px;
+	}
+	footer.main_footer_section {
+	    height: 180px;
 	}
 }
 @media only screen  and (max-width: 480px) {
